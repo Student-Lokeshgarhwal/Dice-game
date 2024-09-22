@@ -5,7 +5,7 @@ function Homepage({isactive,setIsactive}) {
     <Homepagecontainer>
        <div className="container">
        <div className="image">
-            <img src="/images/dices.png" alt="" />
+            <img src="./images/dices.png" alt="" />
         </div>
         <div className="contant">
          <h1> DICE GAME</h1>

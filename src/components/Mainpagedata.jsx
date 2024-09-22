@@ -22,7 +22,7 @@ function Mainpagedata({ randomimg, setRandomimg, randomdice, setTotalScore, setI
                 <div className="img">
                     <img
                         onClick={() => { randomdice() }}
-                        src={`/images/dice_${randomimg}.png`} alt="" />
+                        src={`./images/dice_${randomimg}.png`} alt="" />
                     <div className="text">
                         Click on Dice to roll
                     </div>

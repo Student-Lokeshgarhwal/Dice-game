@@ -22,7 +22,7 @@ function Mainpage() {
         const no = generatNo();
         // console.log(no)
         setRandomimg(no)
-        setIselectednumber()
+        // setIselectednumber()
         
         
         if(isSelectednumber == no){
