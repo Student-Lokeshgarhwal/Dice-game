@@ -1,7 +1,7 @@
 # React + Vite
 
 you can see live demo here : </br>
-https://student-lokeshgarhwal.github.io/Dice-game/
+https://lokesh-garhwal.github.io/Dice-game/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
